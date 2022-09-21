@@ -76,7 +76,7 @@ def saludame(nombre):
 print(saludame("jonathan"))
 
 """    
-"""   
+"""    
 def calculadora(numero1,numero2, basicas = False):
     suma = numero1 + numero2
     resta = numero1 - numero2
@@ -96,7 +96,6 @@ def calculadora(numero1,numero2, basicas = False):
     return cadena
 
 print(calculadora(2,5))
-
-"""   
-
+ 
+"""  
 
